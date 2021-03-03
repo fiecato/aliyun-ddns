@@ -1,0 +1,17 @@
+[domain]
+domain_name=xxxxxx.com
+
+[subdomain]
+domain=xxxxx
+
+[access]
+keyid=xxxxxxxxxx
+secret=xxxxxx
+regionId=cn-hangzhou
+
+
+[db]
+path=./
+
+[logging]
+level=DEBUG
